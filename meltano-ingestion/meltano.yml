@@ -1,0 +1,7 @@
+default_environment: dev
+project_id: 019e621a-8102-765a-87a8-ebe5c9eedb1a
+environments:
+- name: dev
+- name: staging
+- name: prod
+python: python3.11
